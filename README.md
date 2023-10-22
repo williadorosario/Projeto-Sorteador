@@ -10,11 +10,11 @@
  <h3>Image Mobile</h3>
  <br>
  <h3 align="center"><h3>
- <img src="https://github.com/williadorosario/Projeto-Sorteador/blob/main/assets/image/foto.mobile.png?raw=true" /> 
+ <img src="https://github.com/williadorosario/Projeto-Sorteador/blob/main/assets/image/foto.mobile.png?raw=true" /> <h/3>
   <br>
   <h3>Image Tablet</h3>
-   
- <img  src="https://github.com/williadorosario/Projeto-Sorteador/blob/main/assets/image/foto.tablet.png?raw=true" />
+   <h3>
+ <img  src="https://github.com/williadorosario/Projeto-Sorteador/blob/main/assets/image/foto.tablet.png?raw=true" /> <h3/>
  <br>
  <br>
  <h3>Construção com as tecnologias </h3>
