@@ -25,7 +25,7 @@
   <br>
 - Propriedades personalizadas <b>CSS</b>
  <br>
- - Propriedades <b>Javascript</b>
+ - Propriedades <b>JAVASCRIPT</b>
  <br>
 - Fluxo de trabalho voltado para dispositivos móveis
 <br>
