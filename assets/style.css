@@ -3,18 +3,19 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+    
 }
 
 body {
     background-image: url(https://img.freepik.com/vetores-premium/dados-de-poquer-vista-de-dados-brancos-dourados-dados-de-cassino-ouro-sobre-fundo-preto-dados-de-casino-online-conceito-de-jogo-isolado-no-preto_195742-198.jpg);
-    
+
     width: 100vh;
     display: flex;
     justify-content: center;
     flex-flow: column;
     align-items: center;
     margin: 100px 0 0 430px;
-    gap: 5px;   
+    gap: 5px;
 }
 
 
@@ -31,7 +32,7 @@ h1 {
 }
 
 h3 {
-    
+
     display: flex;
     justify-content: center;
     align-items: center;
@@ -70,88 +71,171 @@ div {
 }
 
 .button-sortear {
-    
+
     background-color: #9ef844;
     color: #1a1717;
     font-weight: 700;
     font-size: 20px;
     width: 200px;
-    height: 40px;
-    border-radius: 15px;
+    height: 45px;
+    border-radius: 20px;
     margin: 20px 0 0 150px;
     cursor: pointer;
-    }
+}
 
 .button-sortear:hover {
     opacity: calc(0.7);
 }
+
 .button-sortear:active {
     opacity: calc(0.7);
 }
 
 
-@media screen and (max-width:600px){
-    
-body {
-    background-image: url(https://img.freepik.com/vetores-premium/dados-de-poquer-vista-de-dados-brancos-dourados-dados-de-cassino-ouro-sobre-fundo-preto-dados-de-casino-online-conceito-de-jogo-isolado-no-preto_195742-198.jpg);
-    
-    height: 100vh; 
-    width: 100vw;  
-    display: flex;
-    justify-content: center;
-    margin: 20px 0;
-    gap: 5px;   
-}
-h1 {
-    color: #ffffff;
-    font-weight: 900;
-    font-size: 80px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-h3 {
-    margin: 18px 0 15px 40px;
-    color: #ffffff;
-    font-weight: 500;
-    font-size: 30px;
-}
 
-div {
-    display: flex;
-    align-items: center;
-    justify-content: center ;
-}
+@media (max-width:930px) {
 
-.input-min, .input-max {
-    width: 150px;
-    height: 60px;
-    border-radius: 20px;
-    margin: 5px;
-    outline: none;
-    line-height: 47px;
-    font-weight: 500;
-    font-size: 30px;
-    opacity: calc(0.7);
-    padding-left: 15px;
+    body {
+        background-image: url(https://img.freepik.com/vetores-premium/dados-de-poquer-vista-de-dados-brancos-dourados-dados-de-cassino-ouro-sobre-fundo-preto-dados-de-casino-online-conceito-de-jogo-isolado-no-preto_195742-198.jpg);
 
-}
-
-.button-sortear {
-    background-color: #9ef844;
-    color: #1a1717;
-    font-weight: 700;
-    font-size: 20px;
-    width: 200px;
-    height: 40px;
-    border-radius: 15px;
-    margin: 15px 0 0 50px;
-    
-    cursor: pointer;
+        height: 100vh;
+        width: 100vw;
+        display: flex;
+        justify-content: center;
+        margin: 20px 0;
+        gap: 5px;
     }
+
+    h1 {
+        color: #ffffff;
+        font-weight: 900;
+        font-size: 140px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    h3 {
+        margin: 18px 0 15px 40px;
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 55px;
+    }
+
+    div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .input-min, .input-max {
+        width: 250px;
+        height: 70px;
+        border-radius: 20px;
+        margin: 5px;
+        outline: none;
+        line-height: 47px;
+        font-weight: 500;
+        font-size: 30px;
+        opacity: calc(0.7);
+        padding-left: 15px;
+    }
+
+    .button-sortear {
+        background-color: #9ef844;
+        color: #1a1717;
+        font-weight: 700;
+        font-size: 35px;
+        width: 250px;
+        height: 70px;
+        border-radius: 18px;
+        margin: 30px 0 0 140px;
+        cursor: pointer;
+    }
+
     .button-sortear:hover {
         opacity: calc(0.7);
     }
+
+    .button-sortear:active {
+        opacity: calc(0.7);
+    }
+
+    #paragrafo {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #f8fc07;
+        margin: 15px 0;
+        font-size: 35px;
+    }
+}
+
+@media screen and (max-width:576px) {
+
+    body {
+        background-image: url(https://img.freepik.com/vetores-premium/dados-de-poquer-vista-de-dados-brancos-dourados-dados-de-cassino-ouro-sobre-fundo-preto-dados-de-casino-online-conceito-de-jogo-isolado-no-preto_195742-198.jpg);
+
+        height: 100vh;
+        width: 100vw;
+        display: flex;
+        justify-content: center;
+        margin: 20px 0;
+        gap: 5px;
+    }
+
+    h1 {
+        color: #ffffff;
+        font-weight: 900;
+        font-size: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    h3 {
+        margin: 18px 0 15px 40px;
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 30px;
+    }
+
+    div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .input-min, .input-max {
+        width: 160px;
+        height: 60px;
+        border-radius: 20px;
+        margin: 5px;
+        outline: none;
+        line-height: 47px;
+        font-weight: 500;
+        font-size: 30px;
+        opacity: calc(0.7);
+        padding-left: 15px;
+
+    }
+
+    .button-sortear {
+        background-color: #9ef844;
+        color: #1a1717;
+        font-weight: 700;
+        font-size: 20px;
+        width: 200px;
+        height: 45px;
+        border-radius: 18px;
+        margin: 15px 0 0 70px;
+        cursor: pointer;
+    }
+
+    .button-sortear:hover {
+        opacity: calc(0.7);
+    }
+
     .button-sortear:active {
         opacity: calc(0.7);
     }
@@ -164,6 +248,4 @@ div {
         margin: 15px 0;
         font-size: 26px;
     }
-    
-
-} 
+}
