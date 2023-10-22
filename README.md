@@ -27,7 +27,7 @@
  <br>
  - Propriedades <b>JAVASCRIPT</b>
  <br>
-- Fluxo de trabalho voltado para dispositivos móveis
+-  Fluxo de trabalho voltado para dispositivos móveis
 <br>
 <h2>Desenvolvimento contínuo..</h2>
 <br>
