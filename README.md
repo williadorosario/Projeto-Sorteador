@@ -12,7 +12,8 @@
  <h3 align="center"><h3>
  <img src="https://github.com/williadorosario/Projeto-Sorteador/blob/main/assets/image/foto.mobile.png?raw=true" /> 
   <br>
-  <h3  align="center">Image Tablet</h3>
+  <h3>Image Tablet</h3>
+   
  <img  src="https://github.com/williadorosario/Projeto-Sorteador/blob/main/assets/image/foto.tablet.png?raw=true" />
  <br>
  <br>
