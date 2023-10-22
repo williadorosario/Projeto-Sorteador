@@ -31,11 +31,11 @@
 <br>
 <h2>Desenvolvimento contínuo..</h2>
 <br>
-Este projeto é do Front end Mentor para <b>desenvolvimento</b> e pratica.
+Este projeto é um sorteador de números aleatório.
 <br>
-projeto utilizado <b>HTML</b> para criação da estrutura e <b>CSS</b> para estilos, nesse projeto fui desafiado pois utilizei o display flex para posicionar os elementos em suas posições, utilizei alguns estilos diferentes para praticar e descobrir outras formas de estilos.
+projeto utilizado <b>HTML</b> para criação da estrutura e <b>CSS</b> para estilos, nesse projeto foi desafiador deixar o sorteador mais responssivor possivel para testar em mobile e tablets.
 <br>
-também procurei deixar responsivo para para telas mobile.
+foi utilizado javascript para fazer o sorteador funcionar de forma eficaz, foi um grande desafio
 
 <br>
 este projeto me ajudou muito a desenvolver habilidades em responsividades.
