@@ -19,15 +19,15 @@
  <br>
  <h3>Construção com as tecnologias </h3>
  <br>
-  ° Este é um  projeto que estão na versão Desktop e Mobile.
+   Este é um  projeto que estão na versão Desktop e Mobile.
   <br>
- ° Marcação <b>HTML5</b> semântica
+  Marcação <b>HTML5</b> semântica
   <br>
- ° Propriedades personalizadas <b>CSS</b>
+ Propriedades personalizadas <b>CSS</b>
  <br>
- ° Propriedades <b>JAVASCRIPT</b>
+  Propriedades <b>JAVASCRIPT</b>
  <br>
- ° Fluxo de trabalho voltado para dispositivos móveis
+  Fluxo de trabalho voltado para dispositivos móveis
 <br>
 <h2>Desenvolvimento contínuo..</h2>
 <br>
