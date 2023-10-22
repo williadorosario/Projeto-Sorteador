@@ -13,7 +13,7 @@
  <img src="https://github.com/williadorosario/Projeto-Sorteador/blob/main/assets/image/foto.mobile.png?raw=true" aling="center"> />
   <br>
   <h3>Image Tablet</h3>
- <img aling="center" src="https://github.com/williadorosario/Projeto-Sorteador/blob/main/assets/image/foto.tablet.png?raw=true" />
+ <img aling="center" src="https://github.com/williadorosario/Projeto-Sorteador/blob/main/assets/image/foto.tablet.png?raw=true" 
  <br>
  <br>
  <h3>Construção com as tecnologias </h3>
