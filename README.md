@@ -23,7 +23,7 @@
   <br>
   Marcação <b>HTML5</b> semântica
   <br>
- Propriedades personalizadas <b>CSS</b>
+    Propriedades personalizadas <b>CSS</b>
  <br>
   Propriedades <b>JAVASCRIPT</b>
  <br>
