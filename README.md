@@ -4,13 +4,13 @@
  <br>
  <br>
  <h3>Image Desktop</h3>
- <img src=""/>
+ <img src="https://github.com/williadorosario/Projeto-Sorteador/blob/main/assets/image/foto.desktop%20.png?raw=true"/>
  <br>
  <br>
  <h3>Image Mobile</h3>
  <br>
  <h3 align="center">
- <img src="https://github.com/williadorosario/Projeto-Order-summary-card/blob/main/assets/image/Card-Mobile.png?raw=true" />
+ <img src="" />
  </h3>
  <br>
  <br>
